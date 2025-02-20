@@ -13,7 +13,6 @@ FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora apa
 - Banco de dados: MySql
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub de luttanteo](https://github-readme-stats.vercel.app/api?username=luttanteo&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luttanteo&layout=compact&theme=radical)
 
 ## 🔗 Conecte-se Comigo
