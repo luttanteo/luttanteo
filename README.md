@@ -1,4 +1,4 @@
-# Olá, eu sou luttanteo! 👋
+# Olá, sou LuttAnteo! 👋
 FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnologia e inovação e aqui você encontrará alguns dos meus projetos e contribuições.
 
 ## 🚀 Sobre Mim
