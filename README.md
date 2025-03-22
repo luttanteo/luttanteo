@@ -1,7 +1,7 @@
 # Olá! 👋
 Meu nome é Ana, mas pode me chamar de Lutt.
 
-FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora em formação apaixonada por tecnologia e inovação e aqui você encontrará alguns dos meus projetos e contribuições.
+FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora em formação apaixonada por tecnologia e aqui você encontrará alguns dos meus projetos e contribuições.
 
 ## 🚀 Sobre Mim
 - 🔭 Tenho 19 anos e atualmente estou matriculada no Centro Universitário Senac - Santo Amaro.
@@ -21,3 +21,5 @@ FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora em 
 - [LinkedIn](https://www.linkedin.com/in/ana-luiza-alves-de-lima-7467ba329/)
 
 Obrigada por visitar meu perfil! Tenha um ótimo dia! 😊
+
+![image](https://github.com/user-attachments/assets/da90b65e-769a-4540-af38-e2cc81541d3d)
