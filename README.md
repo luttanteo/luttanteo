@@ -21,3 +21,11 @@ FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora em 
 - [LinkedIn](https://www.linkedin.com/in/ana-luiza-alves-de-lima-7467ba329/)
 
 Obrigada por visitar meu perfil! Tenha um ótimo dia! 😊
+![GitHub stars](https://img.shields.io/github/stars/luttanteo/luttanteo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/luttanteo/luttanteo?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/luttanteo/luttanteo)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luttanteo&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luttanteo&show_icons=true&theme=radical)
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
