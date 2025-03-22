@@ -21,5 +21,3 @@ FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora em 
 - [LinkedIn](https://www.linkedin.com/in/ana-luiza-alves-de-lima-7467ba329/)
 
 Obrigada por visitar meu perfil! Tenha um ótimo dia! 😊
-
-![image](https://github.com/user-attachments/assets/da90b65e-769a-4540-af38-e2cc81541d3d)
