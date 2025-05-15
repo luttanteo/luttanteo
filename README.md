@@ -6,11 +6,11 @@ FIque a vontade para conhecer o meu perfil no GitHub! Sou uma desenvolvedora em 
 ## 🚀 Sobre Mim
 - 🔭 Tenho 19 anos e atualmente estou matriculada no Centro Universitário Senac - Santo Amaro.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas (2º semestre de 5).
-- 💬 Estou aprendendo Java, HTML, CSS, JavaScript e MySQL no momento, mas pretendo expandir meus conhecimentos em linguagens de programação ainda esse ano.
+- 💬 Estou aprendendo Java, HTML, CSS, JavaScript, MySQL e Angular no momento, mas pretendo expandir meus conhecimentos em linguagens de programação ainda esse ano.
 - 🎮 Os meus repositórios partem dos exercícios e explicações que recebo nas aulas, então sinta-se à vontade para explorá-los e contribuir para qualquer projeto que lhe interesse.
 
 ## 🛠️ Tecnologias & Ferramentas
-- Linguagens: JavaScript, Java
+- Linguagens: JavaScript, Java, Angular
 - Frontend: HTML, CSS
 - Banco de dados: MySQL
 
